@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+</head>
+<body>
+    <script language="javascript">
+ function chkads()
+ {
+  if (lf_addstu.sname.value=="")
+  {
+   alert("姓名不能为空.");
+   lf_addstu.sname.select();
+   return false;
+  }
+  if (lf_addstu.sname.value.length>10) {
+      alert("姓名不能超过10个字符.");
+      lf_addstu.sname.select();
+      return false;
+  }
+  if (lf_addstu.tpl.value=="")
+  {
+   alert("联系电话不能为空.");
+   lf_addstu.tpl.select();
+   return false;
+  }
+  if(!IsNum(lf_addstu.tpl.value)){
+  alert("请输入电话!")
+  lf_addstu.tpl.focus();
+  return false;
+  }
+  if (lf_addstu.nl.value == "") {
+      alert("年龄不能为空.");
+      lf_addstu.tpl.select();
+      return false;
+  }
+  if (!IsNum(lf_addstu.nl.value)) {
+      alert("请输入正确年龄!")
+      lf_addstu.tpl.focus();
+      return false;
+  }
+ }
+ function IsNum(num){
+  var reNum=/^\d*$/;
+  return(reNum.test(num));
+}
+    </script>
+    <form style="padding:0; margin:0" action="" method="post" onsubmit="return chkads()" id="lf_addstu" name="lf_addstu">
+        姓名<br />
+        <input name="sname" type="text" /><br />
+        详细地址<br />
+        <input name="adress" type="text" /><br />
+        邮编<br />
+        <input name="codes" type="text" /><br />
+        联系电话<br />
+        <input name="tpl" type="text" /><br />
+        年龄<br />
+        <input name="nl" type="text" /><br />
+        E-mail<br />
+        <input name="email" type="text" />
+        <input type="image" src="img/wanhui06.jpg" alt="提交" />
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+D:\公司项目\znttj\ZNTtj.Interface\bin\ZNTtj.Interface.dll.config
+D:\公司项目\znttj\ZNTtj.Interface\bin\ZNTtj.Interface.dll
+D:\公司项目\znttj\ZNTtj.Interface\bin\ZNTtj.Interface.pdb
+D:\公司项目\znttj\ZNTtj.Interface\obj\Debug\ZNTtj.Interface.csprojResolveAssemblyReference.cache
+D:\公司项目\znttj\ZNTtj.Interface\obj\Debug\ZNTtj.Interface.dll
+D:\公司项目\znttj\ZNTtj.Interface\obj\Debug\ZNTtj.Interface.pdb
+D:\公司项目\znttj\ZNTtj.Interface\bin\DTcms.Common.dll
+D:\公司项目\znttj\ZNTtj.Interface\bin\DTcms.DBUtility.dll
+D:\公司项目\znttj\ZNTtj.Interface\bin\DTcms.Common.pdb
+D:\公司项目\znttj\ZNTtj.Interface\bin\DTcms.DBUtility.pdb

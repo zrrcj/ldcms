@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\bin\Release\DTcms.DBUtility.dll
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\bin\Release\DTcms.DBUtility.pdb
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\bin\Release\DTcms.Common.dll
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\bin\Release\DTcms.Common.pdb
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\obj\Release\DTcms.DBUtility.dll
+C:\Users\Administrator\Desktop\DTcms_40_sql_src\DTcms.DBUtility\obj\Release\DTcms.DBUtility.pdb
+D:\公司项目\znttj\DTcms.DBUtility\bin\Release\DTcms.DBUtility.dll
+D:\公司项目\znttj\DTcms.DBUtility\bin\Release\DTcms.DBUtility.pdb
+D:\公司项目\znttj\DTcms.DBUtility\bin\Release\DTcms.Common.dll
+D:\公司项目\znttj\DTcms.DBUtility\bin\Release\DTcms.Common.pdb
+D:\公司项目\znttj\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csprojResolveAssemblyReference.cache
+D:\公司项目\znttj\DTcms.DBUtility\obj\Release\DTcms.DBUtility.dll
+D:\公司项目\znttj\DTcms.DBUtility\obj\Release\DTcms.DBUtility.pdb
